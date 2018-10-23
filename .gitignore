@@ -1,1 +1,9 @@
+.idea/
+.vs
 
+Library
+Packages
+Temp
+obj
+
+Assembly-CSharp.csproj
