@@ -5,6 +5,6 @@
 
 ![](https://i.gyazo.com/324c7d5333fac4419e6222168a20b956.png)
 
-Download .exe
+[Download .exe](https://thehunterjp.itch.io/road-runner)
 https://thehunterjp.itch.io/road-runner
 
